@@ -1,0 +1,25 @@
+/pcb/__Previews/*
+/pcb/History
+/pcb/Project Logs for PCB_Project_1
+/pcb/PCB_Project_1.PrjPcbStructure
+
+
+*.rar
+*.o
+*.d
+*.crf
+*.htm
+*.dep
+*.map
+*.bak
+*.lnp
+*.lst
+*.ini
+*.iex
+*.sct
+*.scvd
+*.uvguix
+*.dbg*
+*.uvguix.*
+.mxproject
+*.hex
