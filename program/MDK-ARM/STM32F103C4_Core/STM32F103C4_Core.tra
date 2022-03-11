@@ -28,7 +28,7 @@
 ### ADS-LD Output File: 'STM32F103C4_Core\STM32F103C4_Core.axf'
 ### ADS-LD Command File: 'STM32F103C4_Core\STM32F103C4_Core.lnp'
 ### Checking for dirty Components...
-### Creating CmdFile 'STM32F103C4_Core\STM32F103C4_Core.lnp', Handle=0x00000668
+### Creating CmdFile 'STM32F103C4_Core\STM32F103C4_Core.lnp', Handle=0x00000634
 ### Writing '.lnp' file
 ### ADS-LD Command file 'STM32F103C4_Core\STM32F103C4_Core.lnp' is ready.
 ### ADS-LD: About to start ADS-LD Thread.
